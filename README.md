@@ -30,3 +30,6 @@ V.	Considerações
 Os dados podem responder à várias outras perguntas de negócio e gerar muitas outras visualizações, mas deve-se evitar “poluir” o dashboard.
 É importantíssima a análise preliminar dos dados! E, para tanto, não é necessária uma formação na área médica, mas conhecer/pesquisar um pouco sobre o tipo de negócio é fundamental.
 O Tableau é uma das poucas ferramentas capazes de gerar um gráfico com tanta rapidez.
+
+VI.	Link de Acesso
+https://public.tableau.com/app/profile/cl.udia.k.nia.da.silva/viz/Projeto_Laboratorios/Storyline?publish=yes
